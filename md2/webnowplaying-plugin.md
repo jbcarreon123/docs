@@ -22,6 +22,10 @@ WebNowPlaying Plugin is a Macro Deck 2 plugin that gets media information from w
    [Source](https://github.com/keifufu/WebNowPlaying-Redux)
 3. Click the newly-installed extension, and tick the box where it says "**Macro Deck Adapter**".
 
+## Native APIs
+
+WebNowPlaying Plugin supports Native APIs, so you can now replace KSoft.MediaInfo with this!
+
 ## Variables
 
 | Variable               | Description                                                    | Type    |

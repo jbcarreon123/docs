@@ -84,7 +84,7 @@ description: >-
 
 ### Basic Mode
 
-
+<figure><img src="https://cdn.discordapp.com/attachments/1086969156978622504/1135178023008735312/BasicModeExample.png" alt=""><figcaption></figcaption></figure>
 
 In Basic mode, the thing shown is only the channel name, and the subscriber count.\
 Useful for subscriber comparisons, or like shown in the example (subscribe to [Netherverse](https://youtube.com/@netherverseyt), [Zenith](https://youtube.com/@zenithjj), and [Mongoose](https://youtube.com/@mongoose.). First one to reach 10k wins.), for subscriber races.
@@ -93,7 +93,7 @@ Useful for subscriber comparisons, or like shown in the example (subscribe to [N
 
 > :warning: This costs another 2 quota units!
 
-
+<figure><img src="https://cdn.discordapp.com/attachments/1086969156978622504/1135178023344275527/SimpleModeExample.png" alt=""><figcaption></figcaption></figure>
 
 In Simple Mode, each channel now gets it's own embed, and it now shows their latest video.\
 Also, the statistics is now extended, with videos, and views. It now also have clickable links.
@@ -102,6 +102,6 @@ Also, the statistics is now extended, with videos, and views. It now also have c
 
 > :warning: This costs another 2 quota units!
 
-
+<figure><img src="https://cdn.discordapp.com/attachments/1086969156978622504/1135178022689980486/VerboseModeExample2.png" alt=""><figcaption></figcaption></figure>
 
 In Verbose mode, it now shows the channel's image, the latest video's thumbnail, and the channel's description.

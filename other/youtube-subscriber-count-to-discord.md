@@ -1,11 +1,15 @@
-# YouTube Subscriber Count to Discord
+---
+description: >-
+  is a program that gets subscriber data and many others using YouTube Data API,
+  and sends it to Discord using webhooks.
+---
 
-is a program that gets subscriber data and many others using YouTube Data API, and sends it to Discord using webhooks.
+# YouTube Subscriber Count to Discord
 
 ## Getting started
 
-?> If you want to follow a video instead of reading this wall of text and images, you can follow this [YouTube video](https://www.youtube.com/watch?v=BT2Y8DAEKMk).\
-The application is already have **.NET 7.0** self-contained.
+> :notebook: If you want to follow a video instead of reading this wall of text and images, you can follow this [YouTube video](https://www.youtube.com/watch?v=BT2Y8DAEKMk).\
+> The application is already have **.NET 7.0** self-contained.
 
 ### Required things
 
@@ -14,8 +18,8 @@ The application is already have **.NET 7.0** self-contained.
 * a Discord Webhook URL ([learn how to get that](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks))
 * and a positive attitude
 
-?> If you don't know JSON, use the [YTSCTD JSON Config generator](https://jbcarreon123.github.io/YTSCTD-JSONGenerator.html) tool. Copy the output, paste it to a text editor and save it as `appsettings.json` on the folder of YTSCTD.\
-If you do know JSON, but don't know where to find the syntax, click here. Save it as `appsettings.json` on the folder of YTSCTD.
+> :notebook: If you don't know JSON, use the [YTSCTD JSON Config generator](https://jbcarreon123.github.io/YTSCTD-JSONGenerator.html) tool. Copy the output, paste it to a text editor and save it as `appsettings.json` on the folder of YTSCTD.\
+> If you do know JSON, but don't know where to find the syntax, click here. Save it as `appsettings.json` on the folder of YTSCTD.
 
 ### After you saved the file:
 
@@ -87,7 +91,7 @@ Useful for subscriber comparisons, or like shown in the example (subscribe to [N
 
 ### Simple Mode
 
-!> This costs another 2 quota units!
+> :warning: This costs another 2 quota units!
 
 
 
@@ -96,7 +100,7 @@ Also, the statistics is now extended, with videos, and views. It now also have c
 
 ### Verbose Mode
 
-!> This costs another 2 quota units!
+> :warning: This costs another 2 quota units!
 
 
 

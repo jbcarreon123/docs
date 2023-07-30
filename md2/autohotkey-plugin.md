@@ -5,8 +5,8 @@ Supports all things in AutoHotkey.
 
 ## Getting Started
 
-?> If you want to follow a video instead of reading this wall of text and images, you can follow this [YouTube video](https://www.youtube.com/watch?v=bgWrXzHLZd4).\
-This tutorial also assumes that [Macro Deck](https://macro-deck.app) and [AutoHotkey](https://autohotkey.com) is already installed.
+> :notebook: If you want to follow a video instead of reading this wall of text and images, you can follow this [YouTube video](https://www.youtube.com/watch?v=bgWrXzHLZd4).\
+> This tutorial also assumes that [Macro Deck](https://macro-deck.app) and [AutoHotkey](https://autohotkey.com) is already installed.
 
 ### Macro Deck side
 
@@ -37,7 +37,7 @@ Thanks [@Timoses](https://github.com/Timoses) for coding this feature!
 
 ## AHKPLib \[3.0.0+]
 
-!> This feature is now depectated. This will be replaced by AHKPLibv2 that uses StdOut instead of Websockets to ensure v1 and v2 compatibility.
+> :warning: This feature is now depectated. This will be replaced by AHKPLibv2 that uses StdOut instead of Websockets to ensure v1 and v2 compatibility.
 
 Using the WriteScript v1.1 action now allows you to make communication to AHK Plugin to create a variable, get variables, update variables, create a notification and more. Example:
 

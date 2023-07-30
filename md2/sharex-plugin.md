@@ -4,6 +4,6 @@ ShareX Plugin is a plugin that uses ShareX to screenshot, record, and many more 
 
 ## Getting Started
 
-?> This tutorial assumes that [Macro Deck](https://macro-deck.app) and [ShareX](https://getsharex.com) is already installed.
+> :notebook: This tutorial assumes that [Macro Deck](https://macro-deck.app) and [ShareX](https://getsharex.com) is already installed.
 
 ### Work in progress.

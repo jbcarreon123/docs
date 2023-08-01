@@ -36,7 +36,8 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/jbcarreon123/docs' },
       { icon: 'youtube', link: 'https://youtube.com/@jbcarreon123'},
-      { icon: 'mastodon', link: 'https://fosstodon.org/@jbcarreon123'}
+      { icon: 'mastodon', link: 'https://fosstodon.org/@jbcarreon123'},
+      { icon: 'discord', link: 'https://discord.gg/P5ecFZNyCc'}
     ],
 
     editLink: {

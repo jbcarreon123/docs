@@ -28,11 +28,6 @@ Technically speaking, every modern operating system is supported, albeit some of
 > System.Data.SQLite [1.0.118]
 > YamlDotNet [13.2.0]
 
-## Log4Shell???
-WHAT? This thing is a **C#** application, not a **Java** application. If you are thinking that this is a Java app, it's not, even if C# code is really similar to Java.  
-Also worth mentioning that the CVE is from 2021, and it's 2023!  
-I think all Java applications (that are still maintained) is not suspectible for such attacks, I hope.  
-
 ## Why starting with Y2DL {insert version here}, it's not tested on Windows?
 The lead developer, jbcarreon123 just recently switched to Linux for his daily-driving PC.  
 > Note: The CI/CD workflow of Y2DL already has Windows in mind, so testing if it builds successfully isn't a problem.  

@@ -25,10 +25,34 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Other projects',
+        text: 'YouTube2DiscordLink',
         items: [
-          { text: 'Introduction', link: '/other-projects' },
-          { text: 'YTSCTD', link: '/other/ytsctd.md' }
+          { text: 'Getting started', link: '/y2dl/getting-started' },
+          { 
+            text: 'Configuration',
+            items: [
+              {
+                text: 'Main',
+                items: [
+                  { text: 'Main', link: '/y2dl/config/main/main' },
+                  { text: 'BotConfig', link: '/y2dl/config/main/botconfig' }
+                ]
+              },
+              {
+                text: 'Services',
+                items: [
+                  { text: 'DynamicChannelInfo', link: '/y2dl/config/services/dynamicchannelinfo' },
+                  { text: 'ChannelReleases', link: '/y2dl/config/services/channelreleases' },
+                  { text: 'DynamicChannelInfoForVoiceChannels', link: '/y2dl/config/services/dynamicvoicechannelinfo' },
+                  { text: 'Commands', link: '/y2dl/config/services/commands' }
+                ]
+              }
+            ]
+          }, 
+          { text: 'Variables', link: '/y2dl/variables' },
+          { text: 'Commands', link: '/y2dl/commands' },
+          { text: 'Message and Voice Channels', link: '/y2dl/channels' },
+          { text: 'FAQ', link: '/y2dl/faq' }
         ]
       }
     ],

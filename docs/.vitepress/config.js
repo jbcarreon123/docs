@@ -51,7 +51,8 @@ export default defineConfig({
           }, 
           { text: 'Variables', link: '/y2dl/variables' },
           { text: 'Commands', link: '/y2dl/commands' },
-          { text: 'Message and Voice Channels', link: '/y2dl/channels' }
+          { text: 'Message and Voice Channels', link: '/y2dl/channels' },
+          { text: 'FAQ', link: '/y2dl/faq' }
         ]
       }
     ],

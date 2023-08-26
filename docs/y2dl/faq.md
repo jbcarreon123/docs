@@ -11,9 +11,11 @@ If you don't need the customisability of this bot, and don't have the resources 
 Technically speaking, every modern operating system is supported, albeit some of them isn't tested yet:  
 > Windows 10 and 11 [x64, aarch64/arm64]  
 >> If you see the Windows Smartscreen when it is starts up, click "More info" then "Run Anyway". This is only one-time.  
+
 > Mac OS [x64, aarch64/arm64 (M1/M2)]  
 >> Note: Starting with Mac OS 10.15, 32-bit apps aren't supported.  
 >> Note that it supports native Apple Silicon if you run the appropriate executable, and it should not run in Rosetta.  
+
 > Linux [x64, aarch64/arm64]  
 >> If it says `Permission denied`, run `$ chmod +x ./Y2DL` then run Y2DL again.  
 > Also, it supports Docker. [Click here](/y2dl/getting-started#docker) for more info.  

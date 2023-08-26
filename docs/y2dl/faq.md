@@ -164,7 +164,7 @@ Then, use the `--profile=(profile filename without the yaml part)` argument like
 ```
 
 If you're not using Linux, use `Profiles` in `(Y2DL binary path)/Config/Y2DLConfig.yaml` like this:  
-```
+```yaml
 Profiles:
   - Path: D:\Y2DL\Profiles\profile1.yaml
     Name: Profile1
@@ -181,3 +181,11 @@ Then, use the `--profile=(profile filename without the yaml part)` argument like
 y2dl.exe --profile=Profile1
 ```
 Note: Don't put spaces!
+
+## Log4Shell???
+WHAT? This thing is a **C#** application, not a **Java** application. If you are thinking that this is a Java app, it's not, even if C# code is really similar to Java.  
+Also worth mentioning that the CVE is from 2021, and it's 2023!  
+I think all Java applications (that are still maintained) is not suspectible for such attacks, I hope.  
+
+## Only one question: Can I be a moderator on your server?
+**No.**

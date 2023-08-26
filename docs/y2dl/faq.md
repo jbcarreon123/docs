@@ -1,3 +1,5 @@
+# Frequently asked questions for Y2DL
+
 ## Can I invite the bot found in jbcarreon123 (the lead developer)'s server to my Discord server?
 TLDR: No. The bot is invite-only by jbcarreon123.  
 The bot on there is running on a server that can't handle many Discord servers. For stability of the bot, I won't make the bot be able to invite to other servers.  
@@ -29,7 +31,7 @@ WHAT? This thing is a **C#** application, not a **Java** application. If you are
 Also worth mentioning that the CVE is from 2021, and it's 2023!  
 I think all Java applications (that are still maintained) is not suspectible for such attacks, I hope.  
 
-# Why starting with Y2DL {insert version here}, it's not tested on Windows?
+## Why starting with Y2DL {insert version here}, it's not tested on Windows?
 The lead developer, jbcarreon123 just recently switched to Linux for his daily-driving PC.  
 > Note: The CI/CD workflow of Y2DL already has Windows in mind, so testing if it builds successfully isn't a problem.  
 
@@ -42,14 +44,14 @@ Note that I'm only the person developing this, so I really need that.
 > :info: Did you know that Y2DL is the first jbcarreon123's personal project that has a CI/CD workflow?  
 > Note that this is mentioning personal projects, so Macro-Deck related projects is out of the book.  
 
-# What is the license of this thing? Can I package it on my program?
+## What is the license of this thing? Can I package it on my program?
 Starting with 2.0.0, Y2DL's license switched from MIT License to LGPL v3.  
 Yes, you have the rights to fork this, package this on another program, or anything, assuming that it abides with LGPLv3's terms.  
 Note that I'll appreciate if you made changes that can be beneficial to Y2DL, to create a PR to Y2DL's repo.  
 For more information, check the LICENSE file on Y2DL's GitHub repository.  
 Please note that if Y2DL is packaged on another program, jbcarreon123 can't provide support the program that is packaged by Y2DL.  
 
-# I'm tired of seeing the "Y2DL has a update and you should update" in the console. How do I disable it?
+## I'm tired of seeing the "Y2DL has a update and you should update" in the console. How do I disable it?
 Disabling update checks is generally not recommended, but you can put this on the config file:  
 > ```yaml
 >Main:
@@ -157,7 +159,7 @@ If you use Linux, you can put all the config profiles in a `.y2dl` directory on 
 ```  
 Then, use the `--profile=(profile filename without the yaml part)` argument like:
 ```
-# Launch Profile 2
+## Launch Profile 2
 ./y2dl --profile=profile2
 ```
 
@@ -173,9 +175,9 @@ Profiles:
 ```  
 Then, use the `--profile=(profile filename without the yaml part)` argument like:  
 ```
-# Launch Profile 2 (PowerShell)
+## Launch Profile 2 (PowerShell)
 ./y2dl.exe --profile=Profile2
-# Launch Profile 1 (CMD)
+## Launch Profile 1 (CMD)
 y2dl.exe --profile=Profile1
 ```
 Note: Don't put spaces!

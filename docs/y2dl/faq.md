@@ -7,6 +7,9 @@ Other than that, there is also some other things like YouTube API's quota limits
 If you need help to self-host the bot, join his Discord server and create a help thread.  
 If you don't need the customisability of this bot, and don't have the resources to self-host it, just use other solutions.  
 
+## How can I download videos?
+### THIS IS NOT A YOUTUBE DOWNLOADER!
+
 ## What does this thing support OS-wise?
 Technically speaking, every modern operating system is supported, albeit some of them isn't tested yet:  
 > Windows 10 and 11 [x64, aarch64/arm64]  
